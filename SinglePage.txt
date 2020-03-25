@@ -1,5 +1,0 @@
-Full Name: Adebayo Azeez 
-Email Address: debaycisse@gmail.com 
-Slack Username: Azeez 
-Track: Backend 
-Course: Python
